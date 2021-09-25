@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#baslik{
+    text-align: center;
+}
+
+h4{
+    margin-left: 28%;
+    background-color: brown;
+    display: inline-block;
+    border-radius: 10px;
+    color: wheat;
+}
+
+ul{
+    margin-left: 29%;
+}
+
+#afiyet{
+    margin-left: 80%;
+    font-size: 18px;
+}
